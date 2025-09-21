@@ -17,6 +17,7 @@ public class Main {
         FirstClass F = new FirstClass();
 //      System.out.println(F.addTwo(56, 98));
         Scanner scan = new Scanner(System.in);
+
 //        System.out.println("Enter A");
 //        double A = scan.nextDouble();
 //        System.out.println("Enter B");
